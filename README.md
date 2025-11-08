@@ -1,4 +1,4 @@
-# Exploring Students’ Emotions in Educational Assessment: An Empirical Study Using Social Media Data
+# Students’ Emotions in Educational Assessment: Insights from Social Media Big Data
 
 ## Abstract
 The intersection between assessment and student emotions remains underexamined, despite increasing scholarly attention to emotional experiences in education. Existing literature has primarily focused on singular emotions, such as anxiety, in relation to assessment (Zeidner, 1998, 2014), leaving a gap in understanding the broader emotional landscape students navigate during assessment events (Chen & Brown, 2018; Fang et al., 2023; Wass et al., 2020). This study addresses that gap by empirically examining students' emotional expressions concerning assessment through large-scale data drawn from social media.
